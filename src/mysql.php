@@ -2,7 +2,7 @@
 $hostname	= "mysql";
 $dbname		= "helloworld";
 $username	= "helloworld";
-$password	= "db-password";
+$password	= "helloworldpassword";
 
 try {
 
